@@ -849,7 +849,7 @@ textarea.input {
   }
 }
 
-@media (max-width: 680px) {
+@media (max-width: 600px) {
   .enso1 {
     width: 60px;
   }
@@ -902,6 +902,7 @@ textarea.input {
   .bg {
     width: 100%;
     margin: 190px 0;
+    display: none;
   }
   /* Music */
   .main_music {
@@ -1050,9 +1051,6 @@ textarea.input {
 }
 
 @media (max-width: 250px) {
-  .bg {
-    width: 10%;
-  }
 /* Header */
 
  .enso1 {
