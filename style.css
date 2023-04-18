@@ -901,8 +901,9 @@ textarea.input {
 
   .bg {
     width: 100%;
+    height: 200px;
     margin: 190px 0;
-    display: none;
+    
   }
   /* Music */
   .main_music {
@@ -1102,9 +1103,9 @@ textarea.input {
   }
 
   .bg {
-    width: 20%;
+    width: 100%;
+    height: 200px;
     margin: 100px 0;
-    display: none;
   }
 
   .contact_container {
