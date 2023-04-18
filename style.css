@@ -849,7 +849,7 @@ textarea.input {
   }
 }
 
-@media only screen and (max-width: 680px) {
+@media (max-width: 680px) {
   .enso1 {
     width: 60px;
   }
@@ -1049,7 +1049,10 @@ textarea.input {
   }
 }
 
-@media (max-width: 480px) {
+@media (max-width: 250px) {
+  .bg {
+    width: 10%;
+  }
 /* Header */
 
  .enso1 {
@@ -1101,7 +1104,7 @@ textarea.input {
   }
 
   .bg {
-    width: 50%;
+    width: 20%;
     margin: 100px 0;
     display: none;
   }
