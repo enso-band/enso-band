@@ -815,7 +815,7 @@ textarea.input {
 
 
 /* Media Query */
-@media only screen and (max-width: 1320px) {
+@media (max-width: 1320px) {
   header {
     padding: 0 50px;
     height: 150px;
@@ -833,7 +833,7 @@ textarea.input {
   /*  */
 }
 
-@media (max-width: 1100px) {
+@media  (max-width: 1100px) {
   header {
     padding: 0 30px;
     height: 100px;
