@@ -849,6 +849,32 @@ textarea.input {
   }
 }
 
+@media (max-width: 950px) {
+
+  .bg {
+    width: 100%;
+    height: 450px;
+    margin-top: 55px;
+  }
+
+  .lunes img {
+    width: 100%;
+  }
+
+  .members {
+    display: none;
+  }
+
+  .orbiton {
+    display: none;
+  }
+
+  .orbiton p {
+    display: none;
+  }
+
+}
+
 @media (max-width: 600px) {
   .enso1 {
     width: 60px;
