@@ -815,7 +815,7 @@ textarea.input {
 
 
 /* Media Query */
-@media (max-width: 1320px) {
+@media (max-width: 1800px) {
   header {
     padding: 0 50px;
     height: 150px;
@@ -828,6 +828,16 @@ textarea.input {
 
   .nav_bar ul li a {
     font-size: 20px;
+  }
+
+  .lunes .img {
+    width: 100%;
+  }
+
+  .orbiton p {
+    width: 100%;
+    text-align: center;
+    gap: 2rem;
   }
 
   /*  */
